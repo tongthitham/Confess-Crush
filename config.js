@@ -17,4 +17,4 @@ const CONFIG = {
     messDesc: 'Yeww Quyên nhứt:33 '
     btnAccept: ' Mình cũng yew Thắm<3',
     messLink: 'https://www.messenger.com/t/100050877065012 '
-}
+
